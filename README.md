@@ -1,12 +1,12 @@
 <img src="./images/github_banner.png" alt="GitHub Banner" width="100%" />
 
-<h1 style="font-family:consolas;"> 👋 Hello World!, I'm Nasser </h1>
+# 👋 Hello World!, I'm Nasser
 
-- 💼 Currently working on my own <span style="font-weight:800;color:#cba6f7;"> Portfolio </span> <br/>
-- 🚧 Currently working on my own <span style="font-weight:800;color:#74c7ec;"> Saas </span> <br/>
-- 🧑‍💻 Working as a <span style="font-weight:800;color:#f9e2af;"> web developer </span> and <span style="font-weight:800;color:#f38ba8;">🎨 designer </span> since <span style="font-weight:800;color:#a6e3a1;"> 2022 </span> <br>
+- 💼 Currently working on my own Portfolio  <br/>
+- 🚧 Currently working on my own  <br/>
+- 🧑‍💻 Working as a web developer and 🎨 designer since 2022 <br>
 
-<h1 style="font-family:consolas;"> 💻 Tech Stack:</h1>
+# 💻 Tech Stack :
 
 ![javascript](./images/javascript.png)
 ![typescript](./images/typescript.png)
@@ -29,7 +29,7 @@
 ![pnpm](./images/pnpm.png)
 ![pocketbase](./images/pocketbase.png)
 
-<h1 style="font-family:consolas;"> 🧰 Tools i Use: </h1>
+# 🧰 Tools i Use :
 
 ![visual studio code](./images/vscode.png)
 ![bash](./images/bash.png)
@@ -42,7 +42,7 @@
 ![github](./images/github.png)
 ![vercel](./images/vercel.png)
 
-<h1 style="font-family:consolas;"> 👩‍💻 Am currently learning: </h1>
+# 👩‍💻 Am currently learning :
 
 ![wasm](./images/wasm.png)
 ![microsoft azure](./images/microsoft_azure.png)
@@ -57,16 +57,6 @@
 ![gsap](./images/gsap.png)
 ![three.js](./images/three.js.png)
 ![firebase](./images/firebase.png)
-
-<h1 style="font-family:consolas;"> 
-🧃 Fueled by Caffeine & Chaos
- </h1>
-
-💻 Eat. Sleep. Code. Repeat.<br>
-🐛 Turning coffee into bugs.<br>
-🚀 Deploying to production like it's a test environment.<br>
-🔥 Fix one bug, get two for free. <br>
-🧠 Stack Overflow is my spirit animal.<br>
 
 <!---
 Nasserkar/Nasserkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
